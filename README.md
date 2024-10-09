@@ -16,7 +16,7 @@ pkg install dnsutils -y
 git clone https://github.com/Black-Hacker462/web-ip-finder
 cd web-ip-finder
 chmod +x *
-./ip-finder.sh
+./ip_finder.sh
 
 
 ```
